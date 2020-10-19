@@ -24,4 +24,4 @@ server
 
 
 // ligar o servidor
-server.listen(5500)
+server.listen(80)
