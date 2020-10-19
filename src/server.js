@@ -24,4 +24,4 @@ server
 
 
 // ligar o servidor
-server.listen(80)
+server.listen(process.env.PORT)
